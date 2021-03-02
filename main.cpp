@@ -1,2 +1,6 @@
 // this is a main file that we can put code in
-// v 0
+// v 1
+bool foo(){
+  return true;
+}
+
