@@ -1,0 +1,3 @@
+[submodule "sm1"]
+	path = sm1
+	url = git@gitlab.mobileye.com:wm_interviews/sm1.git
